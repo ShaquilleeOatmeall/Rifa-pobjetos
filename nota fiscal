@@ -1,0 +1,14 @@
+import java.util.Date;
+
+public class nota {
+
+    private int id;
+
+    private int usuario_id;
+
+    private String chave;
+
+    private String sequencial;
+
+    private Date Data_processamento;
+}
