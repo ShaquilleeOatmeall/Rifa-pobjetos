@@ -1,0 +1,14 @@
+public class bilhete {
+
+    private int id;
+
+    private int ano;
+
+    private int mes;
+
+    private int num;
+
+    private int nota_fiscal_id;
+
+    private int usuario_id;
+}
