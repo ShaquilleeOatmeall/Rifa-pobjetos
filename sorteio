@@ -1,0 +1,22 @@
+public class sorteio {
+
+    private int Id;
+
+    private int ano;
+
+    private int identificador;
+
+    private int mes;
+
+    private int valor_premio;
+
+    private int apresentador;
+
+    private int auditor;
+
+    private int premiado;
+
+    private String descricao;
+
+    private String tipo;
+}
